@@ -1,0 +1,51 @@
+header {
+    background-color: lightslategray;
+    border: 1px solid lightslategray;
+}
+
+    h1 {
+        color: blue;
+        text-align: center;
+        font-size: 36px;
+        font-family: Arial;
+    }
+    
+    p {
+        color: darkorange;
+        text-align: center;
+        font-size: 24px;
+        font-family: Arial;
+    }
+
+div.info {
+    display: flex;
+    flex-direction: column;
+    width: 50%;  
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+    h2 {
+        background-color: black;
+        border: 1px solid black;
+        color: skyblue;
+        text-align: center;
+        font-size: 36px;
+        font-family: Arial;
+    }
+
+    img{
+        border: 2px solid black;
+    }
+
+    h3 {
+        background-color: rgb(22, 28, 28);
+        border: 1px solid rgb(22, 28, 28);
+        color: darkcyan;
+        text-align: center;
+        font-size: 36px;
+        font-family: Arial;
+    }
+   
