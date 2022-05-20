@@ -22,11 +22,10 @@ div.info {
     flex-direction: column;
     width: 50%;  
     justify-content: center;
-    align-items: center;
-    margin-top: 10%;
+    /* align-items: center; */
+    margin-top: 5%;
     margin-left: 25%;
 }
-
     h2 {
         background-color: black;
         border: 1px solid black;
@@ -48,4 +47,3 @@ div.info {
         font-size: 36px;
         font-family: Arial;
     }
-   
